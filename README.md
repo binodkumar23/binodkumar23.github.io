@@ -1,8 +1,8 @@
 <HTML>
   
-  <header>
+  
       <h1>Binod Kumar</h1>
-</header>
+
   <br>
   <br>
   <br>
