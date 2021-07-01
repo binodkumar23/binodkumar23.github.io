@@ -3,7 +3,9 @@
   <header>
       <h1>Binod Kumar</h1>
 </header>
-  
+  <br>
+  <br>
+  <br>
 Hi, I  am working as an Assistant Professor in Electrical Engineering department at IIT  Jodhpur (IITJ). You can reach me at binod@iitj.ac.in
   <br>
   Broad Reserach Interests: Hardware Design for AI, VLSI CAD, Multi-processor Coherence and Memory Consistency, Design Verification, Hardware Security
