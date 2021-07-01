@@ -1,7 +1,6 @@
 <HTML>
   
-  <header class="page-header"  
-        role="banner">
+  <header class="page-header">
       <h1 class="project-name">Binod Kumar</h1>
 </header>
   
