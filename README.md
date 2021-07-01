@@ -15,7 +15,7 @@ Hi, I  am working as an Assistant Professor in Electrical Engineering department
   <p>Broad Reserach Interests: Hardware Design for AI, VLSI CAD, Multi-processor Coherence and Memory Consistency, Design Verification, Hardware Security </p>
     <br>
     
-  List of Publications: <a href="https://scholar.google.co.in/citations?user=FtNL2bwAAAAJ&hl=en">Google  Scholar Profile, <a href="https://dblp.uni-trier.de/pid/122/2136-1.html">DBLP</a>
+  List of Publications: <a href="https://scholar.google.co.in/citations?user=FtNL2bwAAAAJ&hl=en">Google  Scholar, <a href="https://dblp.uni-trier.de/pid/122/2136-1.html">DBLP</a>
   
 <br>
  <p>   
