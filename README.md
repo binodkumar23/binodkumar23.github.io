@@ -21,9 +21,11 @@ Hi, I  am working as an Assistant Professor in Electrical Engineering department
  <p>   
 I have received PhD (alongwith Masters) in Electrical Engineering from Indian Institute of Technology Bombay (IITB). Before Joining IITJ, I spent ~2 years at Qualcomm India working in test and debug strategy development for some of the most advanced and complex chipsets of the industry. I have a Bachelors of Technology in ECE from National Institite of Technology Silchar (NITS). </p>
 Recent Acheivements:
+    <ol>
     <il> Honorable mention (4th prize out of 100+ teams worldwide) in ICCAD-2018 design contest challenge </il>
     <il> “Excellence in Research Award” nomination for Ph.D. thesis work </il>
     <il> “Excellence in Teaching Assistantship” award for undergraduate course Microprocessors at IIT Bombay </il>
+    </ol>
     
     
    
